@@ -23,7 +23,7 @@ The following are the driver links for commonly used SDRs.
 ## Download and build LTECell-Search
 Download and compile the source code of LTECell-Search.
 ```
-git clone https://github.com/painting1213/LTECell-Search
+git clone https://github.com/leobrave/LTECell-Search
 cd LTECell-Search
 mkdir build
 cd build
